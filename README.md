@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/BoatSpace/boatspace.js/main/images/boat_circle.png">
+    <img width=225 height=225 src="https://raw.githubusercontent.com/BoatSpace/boatspace.js/main/images/boat_circle.png">
     <p> 
         <a href="https://discord.gg/6rU4rVZ">
             <img src="https://img.shields.io/discord/609125459690651649?color=7289da&logo=discord&logoColor=white" alt="Discord">
@@ -47,3 +47,4 @@ client.on('ready', () => {
       console.error(err)
   })
 })
+```
