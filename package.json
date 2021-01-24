@@ -1,0 +1,25 @@
+{
+  "name": "boatspace.js",
+  "version": "1.0.0",
+  "description": "Allows developers to easily interact with the BoatSpace API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoatSpace/boatspace.js.git"
+  },
+  "keywords": [
+    "boatspace-api",
+    "boatspace",
+    "discord-bots",
+    "discord"
+  ],
+  "author": "FHGDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoatSpace/boatspace.js/issues"
+  },
+  "homepage": "https://github.com/BoatSpace/boatspace.js#readme"
+}
